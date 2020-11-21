@@ -10,7 +10,7 @@
 <img width="728" alt="video" src="https://user-images.githubusercontent.com/10406702/99884768-abdce480-2bfe-11eb-99dc-035e3c9f5725.png">
 
 # navbar using Vanilla JS
-![navbar](https://user-images.githubusercontent.com/10406702/99884938-856b7900-2bff-11eb-8d49-f60bdd4f2ea4.png)
+![slidebar](https://user-images.githubusercontent.com/10406702/99884991-e430f280-2bff-11eb-9da2-b5d70a6c6e20.png)
 
 # Counter
 ![counter](https://user-images.githubusercontent.com/10406702/99884926-77b5f380-2bff-11eb-898e-a573e53eadd2.png)
